@@ -16,4 +16,9 @@ bash```
 source ./2-bring_me_home
 ```
 
+## 3-listfiles
+
+This executable displays current directory contents in a long format.
+
+
 
