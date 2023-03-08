@@ -12,7 +12,7 @@ This executable displays the contents list of your current directory.
 
 This executable changes the working directory to the user's home directory.
 ### *How to use* :
-bash```
+```bash
 source ./2-bring_me_home
 ```
 
